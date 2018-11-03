@@ -1,0 +1,290 @@
+ID	Name	PlayerRating	PlayerRank	Meta	TankID_1	TankID_1upgrades	TankID_1crew	TankID_1ultimate	TankID_1boosters	TankID_2	TankID_2upgrades	TankID_2crew	TankID_2ultimate	TankID_2boosters	TankID_3	TankID_3upgrades	TankID_3crew	TankID_3ultimate	TankID_3boosters	TankID_4	TankID_4upgrades	TankID_4crew	TankID_4ultimate	TankID_4boosters	TankID_5	TankID_5upgrades	TankID_5crew	TankID_5ultimate	TankID_5boosters
+bot0001	Alex_25789654	1	4	Classic	unit_uk2_churchill3	1	0	0		unit_uk_mk3	1	0	0		unit_usa_m2	1	0	0		unit_hun_nimrod	1	0	0						
+bot0002	UPIRY	6	4	Classic	unit_uk2_churchill3	1	0	0		unit_uk_mk3	1	0	0		unit_usa_m2	1	0	0		unit_hun_nimrod	1	0	0						
+bot0003	alex32	11	4	survival	unit_uk2_churchill3	1	0	0		unit_ger_panzer3	1	0	0		unit_ro_panzer4	1	0	0		unit_usa_m2	1	0	0						
+bot0004	OoRtoped	16	4	survival	unit_uk2_churchill3	1	0	0		unit_uk_mk3	1	0	0		unit_ro_panzer4	1	0	0		unit_usa_m2	1	0	0						
+bot0005	alex_Z_alex	22	4	mobile	unit_usa_m2	1	0	0		unit_ger_panzer3	1	0	0		unit_ro_panzer4	1	0	0		unit_hun_v4	1	0	0						
+bot0006	BanGUnnMAn	27	4	mobile	unit_usa_m2	1	0	0		unit_uk_mk3	1	0	0		unit_ro_panzer4	1	0	0		unit_hun_v4	1	0	0						
+bot0007	alex_ua	32	4	Classic	unit_uk2_churchill3	1	0	0		unit_uk_mk3	1	0	0		unit_ro_tacam	1	0	0		unit_hun_v4	1	0	0						
+bot0008	Alex68	36	4	Classic	unit_uk2_churchill3	2	0	0		unit_ger_panzer3	2	0	0		unit_usa_m2	2	0	0		unit_hun_nimrod	2	0	0						
+bot0009	Flot_Of_Ukraine	37	4	Classic	unit_uk2_churchill3	2	0	0		unit_uk_mk3	2	0	0		unit_ro_tacam	2	0	0		unit_hun_v4	2	0	0						
+bot0010	AbramNicoll	42	4	survival	unit_uk2_churchill3	2	0	0		unit_ru_kv85	2	0	0		unit_ger_panzer3	2	0	0		unit_uk_mk3	2	0	0						
+bot0011	UTKA	45	4	Classic	unit_uk2_churchill3	2	0	0		unit_ru_bt5	2	0	0		unit_usa_m2	2	0	0		unit_hun_nimrod	2	0	0						
+bot0012	AAAlexAAA	47	4	survival	unit_uk2_churchill3	2	0	0		unit_ru_kv85	2	0	0		unit_ger_panzer3	2	0	0		unit_uk_mk3	2	0	0						
+bot0013	alex39	51	4	survival	unit_uk2_churchill3	2	0	0	damage	unit_ger_panzer3	2	0	0		unit_ro_panzer4	2	0	0		unit_usa_m2	2	0	0						
+bot0014	Semen33	52	5	mobile	unit_usa_m2	2	0	0		unit_uk_mk3	2	0	0		unit_ger_panzer3	2	0	0		unit_ro_panzer4	2	0	0						
+bot0015	Deman666	55	5	survival	unit_uk2_churchill3	2	0	0		unit_ger_panzer3	2	0	0		unit_ro_panzer4	2	0	0		unit_usa_m2	2	0	0						
+bot0016	Alconafter	57	5	mobile	unit_usa_m2	3	1	0		unit_uk_mk3	3	1	0		unit_jap_te-ke	3	1	0		unit_hun_v4	3	1	0						
+bot0017	alexalex	58	5	mobile	unit_usa_m2	3	0	0		unit_ger_panzer3	3	0	0		unit_ro_panzer4	3	0	0		unit_hun_v4	3	0	0						
+bot0018	BananaMan	60	5	mobile	unit_usa_m2	3	0	0		unit_ger_panzer3	3	0	0		unit_ro_panzer4	3	0	0		unit_hun_v4	3	0	0						
+bot0019	2Comix2	62	5	Classic	unit_uk2_churchill3	3	1	0		unit_hun_nimrod	3	1	0		unit_ger_panzer3	3	1	0		unit_hun_toldi	3	1	0						
+bot0020	alex_su	63	5	Classic	unit_uk2_churchill3	4	1	0		unit_uk_mk3	4	1	0		unit_ro_tacam	4	1	0		unit_hun_v4	4	1	0						
+bot0021	KotByPot	67	5	Classic	unit_uk2_churchill3	4	1	0		unit_hun_nimrod	4	1	0		unit_ger_panzer3	4	1	0		unit_hun_toldi	4	1	0						
+bot0022	KiAex	72	6	defence	unit_uk_mk3	4	1	0		unit_ro_panzer4	4	1	0		unit_ro_tacam	4	1	0		unit_ger_panzer3	4	1	0						
+bot0023	BlatAlex	74	6	Classic	unit_uk2_churchill3	4	1	0	armor	unit_uk_mk3	4	1	0		unit_ro_tacam	4	1	0		unit_hun_v4	4	1	0						
+bot0024	aZaZaLan	77	6	defence	unit_uk_mk3	4	1	0		unit_ro_panzer4	4	1	0		unit_ro_tacam	4	1	0		unit_ger_panzer3	4	1	0						
+bot0025	DiAlex	82	6	Classic	unit_uk2_churchill3	4	1	0		unit_ger_panzer3	4	1	0		unit_usa_m2	4	1	0		unit_cz_jagdpanzer	4	1	0						
+bot0026	4ichalovich	87	6	Classic	unit_uk2_churchill3	5	2	0		unit_ger_panzer3	5	2	0		unit_usa_m2	5	2	0		unit_cz_jagdpanzer	5	2	0						
+bot0027	Alexcontinizo	92	6	survival	unit_usa_m2	5	2	0		unit_jap_te-ke	5	2	0		unit_ro_tacam	5	2	0		unit_hun_nimrod	5	2	0						
+bot0028	USSRchan	97	6	survival	unit_usa_m2	5	2	0		unit_jap_te-ke	5	2	0		unit_ger_panzer3	5	2	0		unit_hun_nimrod	5	2	0						
+bot0029	XXX_ALEXEY1	102	6	mobile	unit_uk2_churchill3	5	2	0		unit_uk_mk3	5	2	0		unit_ro_tacam	5	2	0		unit_usa_m2	5	2	0						
+bot0030	Alexander	105	6	survival	unit_uk2_churchill3	5	1	0	damage	unit_ru_kv85	5	1	0		unit_ger_panzer3	5	1	0		unit_uk_mk3	5	1	0						
+bot0031	HorrorOfCemetery	107	7	mobile	unit_uk2_churchill3	5	2	0		unit_uk_mk3	5	2	0		unit_ger_panzer3	5	2	0		unit_usa_m2	5	2	0						
+bot0032	AWFUNWOTNETORT	109	7	survival	unit_uk2_churchill3	5	1	0		unit_ru_kv85	5	1	0		unit_ger_panzer3	5	1	0		unit_ro_panzer4	5	1	0						
+bot0033	Ferst	111	7	mobile	unit_usa_m2	5	1	0		unit_uk_mk3	5	1	0		unit_jap_te-ke	5	1	0		unit_hun_v4	5	1	0						
+bot0034	For_the_SHAsslex	112	7	Classic	unit_uk2_churchill3	6	2	0		unit_jap_te-ke	6	2	0		unit_ro_tacam	6	2	0		unit_hun_v4	6	2	0						
+bot0035	Sirenevenkiy	113	7	mobile	unit_usa_m2	6	2	0		unit_uk_mk3	6	2	0		unit_jap_te-ke	6	2	0		unit_hun_v4	6	2	0						
+bot0036	ComandanteAlex	116	5	Classic	unit_uk2_churchill3	6	2	0		unit_hun_nimrod	6	2	0		unit_ger_panzer3	6	2	0		unit_hun_toldi	6	2	0						
+bot0037	Uberion6	117	8	Classic	unit_uk2_churchill3	6	3	0		unit_uk_mk3	6	3	0		unit_ro_tacam	6	3	0		unit_hun_v4	6	3	0						
+bot0038	Kotan	118	8	Classic	unit_uk2_churchill3	6	2	0		unit_hun_nimrod	6	2	0		unit_ger_panzer3	6	2	0		unit_hun_toldi	6	2	0						
+bot0039	KillAlex	120	5	defence	unit_ro_r35	7	3	0	armor	unit_hun_nimrod	7	3	0		unit_ro_tacam	7	3	0		unit_ger_panzer3	7	3	0						
+bot0040	Father_of_Alex	122	9	survival	unit_usa_m2	7	3	0		unit_uk_mk3	7	3	0		unit_ger_panzer3	7	3	0		unit_hun_v4	7	3	0						
+bot0041	I_LOVE_Onion	127	9	survival	unit_usa_m2	7	3	0		unit_ru_kv85	7	3	0		unit_ger_panzer3	7	3	0		unit_hun_v4	7	3	0						
+bot0042	azazaman	128	9	defence	unit_ro_r35	8	3	0		unit_hun_nimrod	8	3	0		unit_ro_tacam	8	3	0		unit_ger_panzer3	8	3	0						
+bot0043	Andreyka	132	9	mobile	unit_uk2_churchill3	8	3	1		unit_ru_kv85	8	3	1		unit_jap_te-ke	8	3	1		unit_ro_r35	8	3	1						
+bot0044	TechnoBeriya	137	9	mobile	unit_uk2_churchill3	8	3	1		unit_uk_mk3	8	3	1		unit_jap_te-ke	8	3	1		unit_ro_r35	8	3	1						
+bot0045	DaAlex	138	9	Classic	unit_uk2_churchill3	9	3	1		unit_hun_turan	9	3	1		unit_uk_m3	9	3	1		unit_cz_jagdpanzer	9	3	1						
+bot0046	alexeivichan	142	9	Classic	unit_ro_r35	10	3	1	damage	unit_uk_mk3	10	3	1		unit_ger_panzer3	10	3	1		unit_hun_v4	10	3	1						
+bot0047	Alexey_Michalovich	144	9	Classic	unit_uk2_churchill3	11	4	1		unit_hun_turan	11	4	1		unit_uk_m3	11	4	1		unit_cz_jagdpanzer	11	4	1						
+bot0048	alex_tuk	152	10	defence	unit_usa_m2	12	4	1	damage	unit_ru_kv85	12	4	1		unit_ger_panzer3	12	4	1		unit_hun_nimrod	12	4	1						
+bot0049	ManualKrolik	157	10	defence	unit_uk2_churchill3	12	4	1	armor	unit_ru_bt5	12	4	1		unit_usa_m2	12	4	1		unit_hun_nimrod	12	4	1						
+bot0050	alex2010	162	10	mobile	unit_uk2_churchill3	12	4	1	damage	unit_ru_bt5	12	4	1		unit_ro_r35	12	4	1		unit_usa_m2	12	4	1						
+bot0051	HILATOR12	167	10	mobile	unit_uk2_churchill3	12	4	1	armor	unit_ger_panzer3	12	4	1		unit_ro_r35	12	4	1		unit_usa_m2	12	4	1						
+bot0052	ALEX0015	172	10	Classic	unit_ro_r35	12	4	1	damage	unit_ger_panzer3	12	4	1		unit_ru_bt5	12	4	1		unit_hun_v4	12	4	1						
+bot0053	Ms_Leo	177	10	Classic	unit_uk2_churchill3	12	4	1	armor	unit_jap_te-ke	12	4	1		unit_ru_bt5	12	4	1		unit_hun_v4	12	4	1						
+bot0054	2008alex	182	10	survival	unit_uk2_churchill3	12	4	1	damage	unit_jap_te-ke	12	4	1		unit_ro_tacam	12	4	1		unit_hun_v4	12	4	1						
+bot0055	NaniaLEX	187	10	survival	unit_usa_m2	12	4	1	armor	unit_uk_mk3	12	4	1		unit_ro_tacam	12	4	1		unit_hun_v4	12	4	1						
+bot0056	password2	192	10	mobile	unit_usa_m2	12	4	1	damage	unit_jap_te-ke	12	4	1		unit_ger_panzer3	12	4	1		unit_ro_r35	12	4	1						
+bot0057	BlueOcean11123454	197	10	mobile	unit_uk2_churchill3	12	4	1	armor	unit_uk_mk3	12	4	1		unit_ger_panzer3	12	4	1		unit_ro_r35	12	4	1						
+bot0058	pass	202	10	defence	unit_uk2_churchill3	12	4	1	damage	unit_uk_mk3	12	4	1		unit_jap_te-ke	12	4	1		unit_hun_v4	12	4	1						
+bot0059	BeBeBe	207	10	defence	unit_usa_m2	12	4	1	armor	unit_ru_kv85	12	4	1		unit_jap_te-ke	12	4	1		unit_hun_v4	12	4	1						
+bot0060	alexgic	212	10	Classic	unit_usa_m2	12	4	1	damage	unit_ru_kv85	12	4	1		unit_ger_panzer3	12	4	1		unit_hun_toldi	12	4	1						
+bot0061	StepByStepAfterSwag	217	10	Classic	unit_uk2_churchill3	12	4	1	armor	unit_uk_mk3	12	4	1		unit_ger_panzer3	12	4	1		unit_hun_toldi	12	4	1						
+bot0062	alexGirl	222	10	survival	unit_uk2_churchill3	12	4	1	damage	unit_uk_mk3	12	4	1		unit_ro_tacam	12	4	1		unit_ger_panzer3	12	4	1						
+bot0063	DeaDUndeaD	227	10	survival	unit_ro_r35	12	4	1	armor	unit_hun_nimrod	12	4	1		unit_ro_tacam	12	4	1		unit_ger_panzer3	12	4	1						
+bot0064	BAddalex	232	10	mobile	unit_ro_r35	12	4	1	damage	unit_hun_nimrod	12	4	1		unit_usa_m2	12	4	1		unit_cz_jagdpanzer	12	4	1						
+bot0065	I_AM_A_BOT_why_not	237	10	mobile	unit_uk2_churchill3	12	4	1	armor	unit_ru_bt5	12	4	1		unit_usa_m2	12	4	1		unit_cz_jagdpanzer	12	4	1						
+bot0066	CAMbIU_CTPAiiiHbIU	242	10	defence	unit_uk2_churchill3	12	4	1	damage	unit_ru_bt5	12	4	1		unit_ro_r35	12	4	1		unit_hun_nimrod	12	4	1						
+bot0067	IlikePork	247	10	defence	unit_usa_m2	12	4	1	armor	unit_ger_panzer3	12	4	1		unit_ro_r35	12	4	1		unit_hun_nimrod	12	4	1						
+bot0068	Alexcontinimo	250	10	survival	unit_ru_kv85	13	4	1	damage	unit_uk2_churchill3	13	4	1		unit_uk_m3	13	4	1		unit_ro_r35	13	4	1						
+bot0069	BUBA	252	10	mobile	unit_uk2_churchill3	13	4	1	armor	unit_uk_mk3	13	4	1	armor	unit_ger_panzer3	13	4	1		unit_ro_r35	13	4	1						
+bot0070	Alisa2ch	253	11	survival	unit_ru_kv85	13	4	1	damage	unit_uk2_churchill3	13	4	1		unit_uk_m3	13	4	1		unit_ro_r35	13	4	1						
+bot0071	XXX_ALEX_XXX	256	11	mobile	unit_hun_turan	14	5	1	armor	unit_usa_m2	14	5	1	damage	unit_uk_mk3	14	5	1		unit_fr_amx_13	14	5	1						
+bot0072	passTranssGoodBass	257	11	defence	unit_uk2_churchill3	14	5	1	damage	unit_uk_mk3	14	5	1		unit_jap_te-ke	14	5	1		unit_hun_v4	14	5	1						
+bot0073	GOGOGIRL	262	11	defence	unit_usa_m2	14	5	1	armor	unit_ru_kv85	14	5	1	armor	unit_jap_te-ke	14	5	1		unit_hun_v4	14	5	1						
+bot0074	LaerGjoll	260	11	mobile	unit_hun_turan	14	5	1	damage	unit_usa_sherman	14	5	1		unit_uk_mk3	14	5	1		unit_jap_te-ke	14	5	1						
+bot0075	For_the_Alex	264	11	Classic	unit_usa_t57	15	5	1	armor	unit_ro_tacam	15	5	1	damage	unit_ger_panzer2	15	5	1		unit_uk_mk3	15	5	1						
+bot0076	alexiiyaZin	267	11	Classic	unit_usa_m2	15	5	1	damage	unit_ru_kv85	15	5	1		unit_ger_panzer3	15	5	1		unit_hun_toldi	15	5	1						
+bot0077	Wallerstein	268	11	Classic	unit_uk2_churchill3	15	6	1	armor	unit_uk_tortoise	15	6	1	armor	unit_ger_panzer2	15	6	1		unit_uk_mk3	15	6	1						
+bot0078	Mother_of_Alex	270	11	survival	unit_ru_kv85	15	6	1	damage	unit_uk2_churchill3	15	6	1		unit_uk_mk3	15	6	1		unit_hun_turan	15	6	1						
+bot0079	I_LOVE_POTATO	271	11	survival	unit_ru_kv85	15	6	1	armor	unit_uk_fv215b	15	6	1	damage	unit_uk_mk3	15	6	1		unit_hun_turan	15	6	1						
+bot0080	SilmallirionsKnight	272	11	Classic	unit_uk2_churchill3	15	6	1	damage	unit_uk_mk3	15	6	1		unit_ger_panzer3	15	6	1		unit_hun_toldi	15	6	1						
+bot0081	Alexey	273	11	mobile	unit_ru_t34	15	7	1	armor	unit_usa_m2	15	7	1	armor	unit_ger_panzer3	15	7	1		unit_hun_v4	15	7	1						
+bot0082	Dotkarak	277	11	survival	unit_uk2_churchill3	15	7	1	damage	unit_uk_mk3	15	7	1		unit_ro_tacam	15	7	1		unit_ger_panzer3	15	7	1						
+bot0083	DiscoStalin	281	11	mobile	unit_hun_turan	15	7	1	armor	unit_usa_m2	15	7	1	damage	unit_ger_panzer3	15	7	1		unit_hun_v4	15	7	1						
+bot0084	DeaDUndeaDDad	282	11	survival	unit_ro_r35	15	7	1	damage	unit_hun_nimrod	15	7	1		unit_ro_tacam	15	7	1		unit_ger_panzer3	15	7	1						
+bot0085	Hohland	287	11	mobile	unit_ro_r35	15	7	1	armor	unit_hun_nimrod	15	7	1	armor	unit_usa_m2	15	7	1		unit_cz_jagdpanzer	15	7	1						
+bot0086	Cadabr	292	11	mobile	unit_uk2_churchill3	15	7	1	damage	unit_ru_bt5	15	7	1		unit_usa_m2	15	7	1		unit_cz_jagdpanzer	15	7	1						
+bot0087	CAMbIU_CNJIbHbIU	297	11	defence	unit_uk2_churchill3	15	7	1	armor	unit_ru_bt5	15	7	1	damage	unit_ro_r35	15	7	1		unit_hun_nimrod	15	7	1						
+bot0088	Juke-Nukem	302	12	defence	unit_usa_m2	15	7	1	damage	unit_ger_panzer3	15	7	1		unit_ro_r35	15	7	1		unit_hun_nimrod	15	7	1						
+bot0089	alexeivich	350	12	Classic	unit_uk2_churchill3	16	7	1	armor	unit_cz_jagdpanzer	16	7	1	armor	unit_hun_toldi	16	7	1		unit_hun_turan	16	7	1						
+bot0090	UltraAlex	353	12	Classic	unit_ger_kingtiger	16	8	1	damage	unit_cz_jagdpanzer	16	8	1		unit_hun_toldi	16	8	1		unit_hun_turan	16	8	1						
+bot0091	alex_mih	362	12	defence	unit_ru_kv85	16	8	1	armor	unit_usa_t95	16	8	1	damage	unit_hu2_zrinyi	16	8	1		unit_cz_jagdpanzer	16	8	1						
+bot0092	electroSuslik	367	12	defence	unit_ru_kv85	16	8	1	damage	unit_ro_tacam	16	8	1		unit_hu2_zrinyi	16	8	1		unit_cz_jagdpanzer	16	8	1						
+bot0093	alex1978	379	12	mobile	unit_hun_turan	16	9	1	armor	unit_ger_panzer2	16	9	1	armor	unit_fr_amx_13	16	9	1		unit_uk_m3	16	9	1						
+bot0094	ANNIHILATOR77	380	12	mobile	unit_hun_turan	16	9	1	damage	unit_ger_panzer2	16	9	1		unit_jap_chi-ha	16	9	1		unit_uk_m3	16	9	1						
+bot0035	ALEX0000072	555	13	Classic	unit_ru_kv85	19	15	1	armor	unit_hu2_zrinyi	19	15	1	damage	unit_hun_turan	19	15	1	armor	unit_ger_panzer2	19	9	1						
+bot0036	Mr_Pershing	566	13	Classic	unit_ru_kv85	19	15	1	damage	unit_hu2_zrinyi	19	15	1	armor	unit_ru_t34	19	15	1		unit_ger_panzer2	19	10	1		unit_uk_m3	19	10	1	
+bot0037	1999alex	588	13	survival	unit_fr_amx_m4	20	15	1	armor	unit_fr_amx_50	20	15	1	damage	unit_hun_turan	20	15	1	damage	unit_uk2_churchill3	16	10	1						
+bot0038	PonyaLEX	590	13	survival	unit_fr_amx_m4	20	16	1	damage	unit_ru_kv85	20	16	1	armor	unit_cz_pantherv	20	16	1		unit_uk2_churchill3	16	10	1		unit_ro_panzer4	20	10	1	
+bot0039	password	609	13	mobile	unit_uk_mk3	21	16	2	armor	unit_ger_panzer2	21	16	2	damage	unit_hun_toldi	21	16	2	armor	unit_uk_m3	21	11	1						
+bot0040	Green_Assorty	611	13	mobile	unit_uk_mk3	21	16	2	damage	unit_ger_panzer2	21	16	2	armor	unit_hun_toldi	21	16	2		unit_uk_m3	21	11	1		unit_fr_amx_13	21	11	1	
+bot0041	passalex	615	13	defence	unit_ru_kv85	22	17	2	armor	unit_ger_jagtiger	21	17	2	damage	unit_hu2_zrinyi	21	17	2	damage	unit_uk_m3	22	11	1						
+bot0042	BeBeerBear	620	13	defence	unit_ru_kv85	22	17	2	damage	unit_cz_jagdpanzer	22	17	2	armor	unit_hu2_zrinyi	21	17	2		unit_uk_m3	22	12	1		unit_cz_lt38	22	12	1	
+bot0043	alexmaigic	800	13	Classic	unit_fr_amx_m4	22	17	2	armor	unit_hun_turan	22	17	2	damage	unit_usa_t95	22	17	2	armor	unit_ger_panzer2	22	12	1						
+bot0044	Veloassasin	802	14	Classic	unit_fr_amx_m4	23	18	2	damage	unit_hun_turan	23	18	2	armor	unit_cz_jagdpanzer	23	18	2		unit_ger_panzer2	23	12	1		unit_hu2_zrinyi	22	12	1	
+bot0045	alexboy	822	14	survival	unit_ger_tiger	23	18	2	armor	unit_fr_amx_50	23	18	2	damage	unit_uk2_churchill3	16	18	2	damage	unit_jap_chi-ha	23	13	1						
+bot0046	DeaD	822	14	survival	unit_ger_tiger	23	18	2	damage	unit_ru_kv85	23	18	2	armor	unit_uk2_churchill3	16	18	2		unit_jap_chi-ha	23	13	1		unit_ro_panzer4	22	13	1	
+bot0047	goodalex	845	14	mobile	unit_uk_mk3	24	19	2	armor	unit_usa_sherman	24	19	2	damage	unit_hun_toldi	24	19	2	armor	unit_jap_chi-ha	23	13	1						
+bot0048	I_AM_NOT_A_BOT	847	14	mobile	unit_uk_mk3	24	19	2	damage	unit_ger_panzer2	24	19	2	armor	unit_hun_toldi	24	19	2		unit_jap_chi-ha	23	14	1		unit_hun_turan	23	14	1	
+bot0049	CAMbIU_KPACUBUU	864	14	defence	unit_hun_tas	24	19	2	armor	unit_uk_m3	24	19	2	damage	unit_uk_tortoise	24	19	2	damage	unit_hu2_zrinyi	24	14	1						
+bot0050	RedFatTed	870	14	defence	unit_ru_kv85	24	20	2	damage	unit_uk_m3	24	20	2	armor	unit_cz_jagdpanzer	24	20	2		unit_hu2_zrinyi	24	14	1		unit_hu2_zrinyi	24	14	1	
+bot0051	Slashar	1500	15	Classic	unit_ru_kv85	25	21	2	armor	unit_hun_turan	25	21	2	damage	unit_jap_ho-ri2	25	21	2	armor	unit_ger_panzer2	25	21	2	armor	unit_uk_m3	25	21	2	
+bot0052	DemonAlex	1505	15	Classic	unit_hun_tas	25	22	2	damage	unit_hun_turan	25	22	2	armor	unit_cz_jagdpanzer	25	22	2	damage	unit_ger_panzer2	25	22	2		unit_uk_m3	25	22	2	
+bot0053	Revers	1556	15	survival	unit_hun_tas	26	22	2	armor	unit_ru_kv85	26	22	2	damage	unit_uk_fv215b	25	22	2	armor	unit_jap_chi-ha	16	22	2	damage	unit_fr_amx_m4	25	22	2	
+bot0054	Balton	1568	15	survival	unit_hun_tas	26	22	2	damage	unit_ru_kv85	26	22	2	armor	unit_uk_fv214	25	22	2	damage	unit_jap_chi-ha	16	22	2		unit_fr_amx_m4	25	22	2	
+bot0055	Fantasy	1589	15	mobile	unit_uk_mk3	26	23	2	armor	unit_ger_panzer2	26	23	2	damage	unit_hun_toldi	26	23	2	armor	unit_cz_lt38	25	23	2	armor	unit_hun_turan	25	23	2	
+bot0056	Kaputler	1593	15	mobile	unit_uk_mk3	26	23	2	damage	unit_ger_panzer2	26	23	2	armor	unit_hun_toldi	26	23	2	damage	unit_fr_amx_13	25	23	2		unit_hun_turan	25	23	2	
+bot0057	assssasin	1611	15	defence	unit_ro_panzer4	26	23	2	armor	unit_ru_su152	27	23	2	damage	unit_cz_jagdpanzer	26	23	2	armor	unit_cz_lt38	26	23	2	damage	unit_hu2_zrinyi	26	23	2	
+bot0058	Nick_The_Name	1629	15	defence	unit_ro_panzer4	26	24	2	damage	unit_ru_su152	27	24	2	armor	unit_cz_jagdpanzer	26	24	2	damage	unit_cz_lt38	26	24	2		unit_hu2_zrinyi	26	24	2	
+bot0059	FerstAlex	1700	15	Classic	unit_fr_amx_m4	26	24	2	armor	unit_ru_su152	27	24	2	damage	unit_cz_pantherv	26	24	2	armor	unit_hun_toldi	26	24	2	armor	unit_uk_m3	26	24	2	
+bot0060	Vape_Spinner	1718	15	Classic	unit_uk_fv215b	26	24	2	damage	unit_ru_su152	27	24	2	armor	unit_uk_mk3	26	24	2	damage	unit_hun_toldi	26	24	2		unit_uk_m3	26	24	2	
+bot0061	cherry	1733	15	survival	unit_hun_tas	26	25	2	armor	unit_ru_kv85	26	25	2	damage	unit_ro_panzer4	26	25	2	armor	unit_hun_turan	26	25	2	damage	unit_ger_tiger	26	25	2	
+bot0062	Echpochmak	1759	16	survival	unit_hun_tas	26	25	2	damage	unit_ru_kv85	26	25	2	armor	unit_ro_panzer4	26	25	2	damage	unit_hun_turan	26	25	2		unit_ger_tiger	26	25	2	
+bot0063	zeus	1787	16	mobile	unit_hun_turan	26	25	2	armor	unit_ger_panzer2	26	25	2	damage	unit_cz_lt38	26	25	2	armor	unit_uk_mk3	26	25	2	armor	unit_ro_panzer4	26	25	2	
+bot0064	ALEX_XELA	1790	16	mobile	unit_hun_turan	26	26	2	damage	unit_ger_panzer2	26	26	2	armor	unit_fr_amx_13	26	26	2	damage	unit_uk_mk3	26	26	2		unit_ro_panzer4	26	26	2	
+bot0065	SmoKKer	1805	16	defence	unit_fr_amx_m4	28	27	2	armor	unit_usa_sherman	28	27	2	damage	unit_hu2_zrinyi	26	27	2	armor	unit_ru_su152	28	27	2	damage	unit_cz_jagdpanzer	26	27	2	
+bot0066	Ramplin	1805	16	defence	unit_fr_amx_m4	28	28	2	damage	unit_usa_sherman	28	28	2	armor	unit_hu2_zrinyi	26	28	2	damage	unit_uk_tortoise	28	28	2		unit_cz_jagdpanzer	26	28	2	
+bot0067	ApplePid	1869	17	Classic	unit_hun_tas	26	29	2	armor	unit_usa_t95	29	29	2	damage	unit_cz_skoda_t25	29	29	2	armor	unit_hun_toldi	26	29	2	armor	unit_usa_sherman	26	29	2	
+bot0068	NecroCraft	1888	17	Classic	unit_hun_tas	26	30	2	damage	unit_ru_su152	29	30	2	armor	unit_cz_skoda_t25	29	30	2	damage	unit_hun_toldi	26	30	2		unit_usa_sherman	26	30	2	
+bot0069	login	1919	17	survival	unit_hun_tas	26	31	2	armor	unit_fr_amx_m4	30	31	2	damage	unit_ro_panzer4	26	31	2	armor	unit_ru_kv85	26	31	2	damage	unit_usa_sherman	26	31	2	
+bot0070	RusT34	1939	17	survival	unit_ger_kingtiger	26	31	2	damage	unit_fr_amx_m4	30	31	2	armor	unit_ro_panzer4	26	31	2	damage	unit_ru_kv85	26	31	2		unit_usa_sherman	26	31	2	
+bot0071	PieDiePie	2500	18	mobile	unit_usa_sherman	30	32	3	damage	unit_jap_chi-ri	30	32	3	armor	unit_jap_chi-to	30	32	3	damage	unit_jap_chi-ha	30	32	3	armor	unit_cz_skoda_t25	30	32	3	damage
+bot0072	MAD_alex	2525	18	mobile	unit_usa_sherman	31	32	3	armor	unit_jap_chi-ri	31	32	3	damage	unit_jap_chi-to	31	32	3	armor	unit_jap_chi-ha	31	32	3	damage	unit_cz_skoda_t25	31	32	3	
+bot0073	NaviBest	2560	18	defence	unit_ger_tiger	32	32	3	damage	unit_usa_sherman	32	32	3	armor	unit_ger_jagtiger	32	32	3	damage	unit_ru_su152	32	32	3	armor	unit_ru_t34	32	32	3	armor
+bot0074	PROgamer	2564	18	defence	unit_ger_tiger	33	32	3	armor	unit_usa_sherman	33	32	3	damage	unit_jap_ho-ri2	33	32	3	armor	unit_ru_su152	33	32	3	damage	unit_ru_t34	33	32	3	
+bot0075	RED	2656	19	Classic	unit_fr_amx_m4	34	32	3	damage	unit_jap_ho-ri2	34	32	3	armor	unit_cz_skoda_t25	34	32	3	damage	unit_jap_chi-ha	34	32	3	armor	unit_ru_t34	34	32	3	damage
+bot0076	FoxSocks	2693	19	Classic	unit_fr_amx_m4	35	32	3	armor	unit_jap_ho-ri2	35	32	3	damage	unit_cz_skoda_t25	35	32	3	armor	unit_jap_chi-ha	35	32	3	damage	unit_ru_t34	35	32	3	
+bot0077	slonik	2751	19	survival	unit_fr_amx_m4	36	32	3	damage	unit_ger_tiger	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-to	36	32	3	armor
+bot0078	Tankeeeeeeeee	2788	19	survival	unit_fr_amx_m4	36	32	3	armor	unit_fr_amx_50	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-to	36	32	3	
+bot0079	Nickname	3030	20	mobile	unit_cz_skoda_t25	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_fr_amx_13	36	32	3	damage
+bot0080	Alex_hood	3050	20	mobile	unit_cz_skoda_t25	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_ru_t34	36	32	3	
+bot0081	Daryl	3111	20	defence	unit_ger_tiger	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_ho-ri2	36	32	3	damage	unit_ru_su152	36	32	3	armor	unit_ru_t34	36	32	3	armor
+bot0082	Leroy_Jenkins	3177	20	defence	unit_ger_tiger	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_ho-ri2	36	32	3	armor	unit_ru_su152	36	32	3	damage	unit_ru_t34	36	32	3	
+bot0083	NIGAN	3309	20	Classic	unit_ger_tiger	36	32	3	damage	unit_jap_ho-ri2	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage	unit_fr_amx_m4	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage
+bot0084	Aisa	3332	20	Classic	unit_ger_tiger	36	32	3	armor	unit_jap_ho-ri2	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor	unit_fr_amx_m4	36	32	3	damage	unit_jap_chi-ha	36	32	3	
+bot0085	DoctorWho	3582	21	survival	unit_ger_tiger	36	32	3	armor	unit_uk_fv214	38	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_uk_fv215b	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0086	AlexMaster	3600	21	survival	unit_ger_tiger	36	32	3	damage	unit_uk_fv214	38	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_fr_amx_m4	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0087	CremleBot	3620	21	mobile	unit_jap_chi-to	36	32	3	armor	unit_cz_skoda_t25	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0088	MEGADESTROYER	3676	21	mobile	unit_jap_chi-to	36	32	3	damage	unit_cz_skoda_t25	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0089	Enigma	4500	21	defence	unit_ger_tiger	36	32	3	armor	unit_jap_ho-ri2	36	32	3	armor	unit_ru_su152	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage
+bot0090	Alexox	4555	21	defence	unit_ger_tiger	36	32	3	damage	unit_usa_t95	36	32	3	damage	unit_ru_su152	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor
+bot0091	Bambi	4651	22	Classic	unit_uk_fv214	40	32	3	armor	unit_ru_su152	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_usa_sherman	36	32	3	damage
+bot0092	IlyaIlya	4655	22	Classic	unit_uk_fv214	40	32	3	damage	unit_ru_su152	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_usa_sherman	36	32	3	armor
+bot0093	kefir_kefiriy	4783	22	survival	unit_ger_tiger	36	32	3	armor	unit_fr_amx_m4	36	32	3	armor	unit_uk_fv214	40	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage
+bot0094	MetAlex	4801	22	survival	unit_ger_tiger	36	32	3	damage	unit_fr_amx_m4	36	32	3	damage	unit_uk_fv215b	40	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor
+bot0095	Ivan_Bobrov	4993	22	mobile	unit_fr_amx_13	41	32	3	armor	unit_jap_chi-to	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0096	WolfTank	4999	22	mobile	unit_fr_amx_13	41	32	3	damage	unit_jap_chi-to	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0097	Doc	5014	22	defence	unit_fr_amx_ac	41	32	3	armor	unit_ru_su152	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_jap_ho-ri2	36	32	3	damage
+bot0098	Re_Start	5027	23	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_ru_su152	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_usa_t95	36	32	3	armor
+bot0099	RedHulk	6099	23	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_ger_tiger	36	32	3	damage
+bot0100	Chpokman	6105	23	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_ger_tiger	36	32	3	armor
+bot0101	KISS	6112	23	survival	unit_uk_fv214	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	armor	unit_fr_amx_m4	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_ger_tiger	36	32	3	damage
+bot0102	Bendus	6199	23	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	damage	unit_fr_amx_m4	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_ger_tiger	36	32	3	armor
+bot0103	AmazingAlex	6223	24	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage
+bot0104	Demoman	6225	24	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_usa_sherman	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor
+bot0105	feuermagierderr	6288	24	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_ru_su152	36	32	3	armor	unit_fr_amx_m4	36	32	3	damage
+bot0106	CAToNICK	6303	24	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_usa_t95	36	32	3	damage	unit_fr_amx_m4	36	32	3	armor
+bot0107	RichardGears	6377	24	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0108	Please	6384	24	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0109	Jovan	6410	25	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor	unit_fr_amx_m4	36	32	3	damage	unit_ger_tiger	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0110	Myself	6450	25	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_fv214	41	32	3	damage	unit_fr_amx_m4	36	32	3	armor	unit_ger_tiger	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0111	xaos	6466	25	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0112	Grind_o_Matic	6503	26	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_usa_sherman	36	32	3	armor, damage	unit_jap_chi-ri	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0113	Vitaminka	7500	26	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0114	GoodBoy	7523	26	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_uk_tortoise	41	32	3	damage
+bot0115	Shaman	7527	27	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_fr_amx_13	41	32	3	armor
+bot0116	Frostmorn	7539	27	Classic	unit_fr_amx_50	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_fr_amx_13	41	32	3	damage
+bot0117	Nessa	7643	27	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_tiger	36	32	3	armor, damage	unit_fr_amx_m4	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage	unit_uk_tortoise	41	32	3	armor
+bot0118	Not_Your_Girlfriend	7648	28	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_tiger	36	32	3	armor, damage	unit_fr_amx_m4	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor	unit_uk_tortoise	41	32	3	damage
+bot0119	Kote	7888	28	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_usa_sherman	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_usa_t26_pershing	41	32	3	armor
+bot0120	LENA_PUSICHKA	7899	28	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_usa_sherman	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_usa_t26_pershing	41	32	3	damage
+bot0121	Lisi4ka	7915	29	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_uk_tortoise	41	32	3	armor
+bot0122	Goggle_Bot	7917	29	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_uk_tortoise	41	32	3	damage
+bot0123	Baunty	8049	29	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0124	KotanBratan	8100	30	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0125	RUDI	10101	30	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_m4	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_ger_tiger	36	32	3	armor
+bot0126	DTFRU	10150	30	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage	unit_usa_t57	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_ger_tiger	36	32	3	damage
+bot0127	KoTuK	10187	30	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_jap_chi-to	36	32	3	armor	unit_ru_t34	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0128	Make_Hungary_Great_Again	10190	30	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_jap_chi-to	36	32	3	damage	unit_ru_t34	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0129	IseStorm	10222	30	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_uk_tortoise	41	32	3	armor
+bot0130	again	10287	30	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_uk_tortoise	41	32	3	damage
+bot0131	Dendi	10367	30	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-ha	36	32	3	damage	unit_usa_sherman	36	32	3	armor
+bot0132	GadSaveBeer	10372	31	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_jap_chi-ha	36	32	3	armor	unit_usa_sherman	36	32	3	damage
+bot0133	AnGel	10500	31	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_fr_amx_m4	36	32	3	armor	unit_uk_fv215b	36	32	3	damage	unit_cz_pantherv	41	32	3	armor
+bot0134	NukaMan	10550	31	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_ger_tiger	36	32	3	damage	unit_jap_chi-to	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0135	Fli1pstar	10598	31	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor, damage	unit_jap_chi-to	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_usa_t26_pershing	41	32	3	armor
+bot0136	Gaben	10644	31	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor, damage	unit_jap_chi-to	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_usa_t26_pershing	41	32	3	damage
+bot0137	EHOT	10777	32	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_usa_t26_pershing	41	32	3	armor
+bot0138	Jeniay	11348	32	defence	unit_fr_amx_ac	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_jap_chi-to	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_usa_t26_pershing	41	32	3	damage
+bot0139	SkyLiTeR	12012	32	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor	unit_ru_t34	36	32	3	damage	unit_fr_amx_13	41	32	3	armor
+bot0140	Maxxis	12019	32	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	damage	unit_ru_t34	36	32	3	armor	unit_fr_amx_13	41	32	3	damage
+bot0141	GrizeR	12150	32	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_m4	36	32	3	armor	unit_ru_t34	36	32	3	damage	unit_cz_pantherv	41	32	3	armor
+bot0142	FluFly	12173	33	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage	unit_ger_tiger	36	32	3	damage	unit_ru_t34	36	32	3	armor	unit_cz_pantherv	41	32	3	damage
+bot0143	azazin_kret	12261	33	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor, damage	unit_usa_sherman	36	32	3	armor	unit_ru_t34	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0144	MassTodont	12300	33	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor, damage	unit_usa_sherman	36	32	3	damage	unit_ru_t34	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0145	LLIakal	12489	33	defence	unit_uk_tortoise	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-ri	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0146	Boroda	12515	33	defence	unit_uk_tortoise	41	32	3	armor, damage	unit_jap_ho-ri2	36	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_jap_chi-ri	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0147	Nysson	12645	34	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_fr_amx_13	41	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0148	Bezz_usov	12700	34	Classic	unit_ger_kingtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_fr_amx_13	41	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0149	Son_of_Alex	12870	34	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor	unit_ger_jagtiger	41	32	3	damage	unit_uk_tortoise	41	32	3	armor
+bot0150	BattleSam	12893	34	survival	unit_uk_fv214	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	damage	unit_ger_jagtiger	41	32	3	armor	unit_uk_tortoise	41	32	3	damage
+bot0151	BomberMan	12998	35	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-to	36	32	3	damage	unit_cz_pantherv	41	32	3	armor
+bot0152	BunnyBut	12999	35	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_jap_chi-ri	36	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_jap_chi-to	36	32	3	armor	unit_cz_pantherv	41	32	3	armor
+bot0153	t34tank	13080	35	defence	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor	unit_ger_jagtiger	41	32	3	damage
+bot0154	GamBoy	13268	35	defence	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	damage	unit_ger_jagtiger	41	32	3	armor
+bot0155	xxxJohnxxx	13456	36	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor	unit_usa_t26_pershing	41	32	3	damage
+bot0156	UVAO_chan	13792	36	Classic	unit_uk_fv214	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	damage	unit_usa_t26_pershing	41	32	3	armor
+bot0157	LOKO	14097	36	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor	unit_uk_fv214	41	32	3	damage
+bot0158	AmAlive111	15693	36	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	damage	unit_uk_fv214	41	32	3	armor
+bot0159	JEKA	16060	36	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_sherman	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0160	The_Last_Unicorn	16347	37	mobile	unit_fr_amx_13	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_sherman	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0161	Sold	16442	37	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0162	ThunderBot	16572	37	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0163	xatiko	16856	37	survival	unit_ger_kingtiger	41	32	2	armor, damage	unit_ger_tiger	36	32	2	armor, damage	unit_fr_amx_50	41	32	2	armor, damage	unit_jap_chi-ri	36	32	2	armor	unit_cz_pantherv	41	32	2	damage
+bot0164	31bottle	16943	37	survival	unit_ger_kingtiger	41	32	2	armor, damage	unit_ger_tiger	36	32	2	armor, damage	unit_fr_amx_50	41	32	2	armor, damage	unit_jap_chi-ri	36	32	2	damage	unit_cz_pantherv	41	32	2	armor
+bot0165	GrandVegan	17591	38	survival	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	armor, damage	unit_uk_fv214	41	32	2	armor, damage	unit_ger_kingtiger	41	32	2	armor	unit_uk_fv215b	41	32	2	damage
+bot0166	RassionPatriot	18746	38	survival	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	armor, damage	unit_uk_fv214	41	32	2	armor, damage	unit_ger_kingtiger	41	32	2	damage	unit_uk_fv215b	41	32	2	armor
+bot0167	Panther	20001	38	defence	unit_usa_t95	41	32	2	armor, damage	unit_fr_amx_ac	41	32	2	armor, damage	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	armor	unit_ger_jagtiger	41	32	2	damage
+bot0168	T14_armator	20077	38	defence	unit_usa_t95	41	32	2	armor, damage	unit_fr_amx_ac	41	32	2	armor, damage	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	damage	unit_ger_jagtiger	41	32	2	armor
+bot0169	Kintus	20180	38	survival	unit_uk_fv215b	41	32	2	armor, damage	unit_uk_fv214	41	32	2	armor, damage	unit_ger_kingtiger	41	32	2	armor, damage	unit_ger_tiger	36	32	2	armor	unit_cz_pantherv	41	32	2	damage
+bot0170	Samurai	21287	39	survival	unit_uk_fv215b	41	32	2	armor, damage	unit_uk_fv214	41	32	2	armor, damage	unit_ger_kingtiger	41	32	2	armor, damage	unit_ger_tiger	36	32	2	damage	unit_cz_pantherv	41	32	2	armor
+bot0171	Fourmii	20295	39	mobile	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	armor, damage	unit_jap_chi-ri	36	32	2	armor, damage	unit_fr_amx_13	41	32	2	armor	unit_jap_chi-to	36	32	2	damage
+bot0172	Return_me_my_2007	20324	39	mobile	unit_cz_pantherv	41	32	2	armor, damage	unit_usa_t26_pershing	41	32	2	armor, damage	unit_jap_chi-ri	36	32	2	armor, damage	unit_fr_amx_13	41	32	2	damage	unit_jap_chi-to	36	32	2	armor
+bot0173	Partisan_78	20367	39	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0174	Zina7	20657	39	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0175	Westwood	21589	40	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_ger_tiger	36	32	3	armor	unit_cz_pantherv	41	32	3	damage
+bot0176	Alexissiomo	21645	40	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_ger_tiger	36	32	3	damage	unit_cz_pantherv	41	32	3	armor
+bot0177	caziel	21843	40	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	armor	unit_ru_t34	36	32	3	damage
+bot0178	GeetLer	22687	40	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_cz_skoda_t25	36	32	3	damage	unit_ru_t34	36	32	3	armor
+bot0179	MrFreeze	23085	40	defence	unit_usa_t95	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor	unit_ger_jagtiger	41	32	3	damage
+bot0180	Tom_Cruise	23128	41	defence	unit_usa_t95	41	32	3	armor, damage	unit_uk_tortoise	41	32	3	armor, damage	unit_fr_amx_ac	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	damage	unit_ger_jagtiger	41	32	3	armor
+bot0181	Batman	23157	41	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor	unit_cz_pantherv	41	32	3	damage
+bot0182	Marvs	23468	41	survival	unit_ger_kingtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t57	41	32	3	damage	unit_cz_pantherv	41	32	3	armor
+bot0183	Mixo	23671	41	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_ru_t34	36	32	3	armor	unit_cz_skoda_t25	36	32	3	damage
+bot0184	Van_Dam_Mom	23789	41	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_ru_t34	36	32	3	damage	unit_cz_skoda_t25	36	32	3	armor
+bot0185	SHEV_v_tanke	23847	42	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor	unit_usa_t57	41	32	3	damage
+bot0186	Stepan	23800	42	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	damage	unit_usa_t57	41	32	3	armor
+bot0187	ZEMA	23942	42	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor	unit_usa_t57	41	32	3	damage
+bot0188	DoomAlex	23981	42	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	damage	unit_usa_t57	41	32	3	armor
+bot0189	den355	24188	42	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor	unit_fr_amx_13	41	32	3	damage
+bot0190	39RUS	24220	43	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	damage	unit_fr_amx_13	41	32	3	armor
+bot0191	LegionHunter	24318	43	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor	unit_fr_amx_13	41	32	3	armor
+bot0192	AnytimeMan	24689	43	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0193	SLAV_RUS	24894	43	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0194	TiTan-Pukan	24899	44	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0195	EvilKnight	24911	44	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0196	Jack_Comming	25148	44	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0197	Kirchik	25252	44	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0198	Transfermer	25400	44	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0199	Angarchanin	25888	45	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0200	who_is_your_daddy	27000	45	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0201	AnytimeManYPlay	28112	45	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0202	SLAV_US	29224	45	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0203	TiTanAttackOn	30336	45	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0204	EvilKnight666	31448	46	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0205	Jack_Cummins	31896	46	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0206	GreatTolyan	32344	46	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0207	TransfermerOgurets	32792	46	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0208	RoninKun	33291	46	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0209	who_is_your_bro_bro	33790	47	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0210	AManAdA	34289	47	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0211	SLAV_BY	34788	47	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0212	TiPukanTi	36493	47	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0213	Evilzzzzzzzzzzzz	37295	47	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0214	ck_Cmn	38097	48	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0215	RumbaCo	38899	48	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0216	TrainBrainAgain	39697	48	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0217	Powerwolf	40496	48	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0218	Rammstein_mui	41295	48	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0219	SakuraDyakula	42094	49	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0220	SLAV_DE	42893	49	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0221	Tan-P	43692	49	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage
+bot0222	Evangelist	44491	49	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0223	Holy_Incvisitor	45290	49	mobile	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0224	White_Crusader	46089	50	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0225	Zigfrid_de_lowe	46888	50	defence	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage
+bot0226	Landmeister	47687	50	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0227	Zbyshek	48486	50	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_usa_t95	41	32	3	armor, damage
+bot0228	Geralt_of_	49285	50	defence	unit_usa_t95	41	32	3	armor, damage	unit_ger_jagtiger	41	32	3	armor, damage	unit_usa_t26_pershing	41	32	3	armor, damage	unit_usa_t57	41	32	3	armor, damage	unit_fr_amx_13	41	32	3	armor, damage
+bot0229	Great_Magistr	50084	50	survival	unit_uk_fv215b	41	32	3	armor, damage	unit_ger_kingtiger	41	32	3	armor, damage	unit_cz_pantherv	41	32	3	armor, damage	unit_fr_amx_50	41	32	3	armor, damage	unit_uk_fv214	41	32	3	armor, damage

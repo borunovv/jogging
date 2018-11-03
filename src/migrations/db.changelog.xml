@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                            http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
+
+    <changeSet id="jogging.1" author="borunov">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="logs"/>
+            </not>
+        </preConditions>
+        <comment>Create table logs</comment>
+        <createTable tableName="logs">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="create_time" type="timestamp">
+                <constraints nullable="false"/>
+            </column>
+            <column name="level" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column name="exception" type="text">
+                <constraints nullable="true"/>
+            </column>
+            <column name="message" type="text">
+                <constraints nullable="true"/>
+            </column>
+        </createTable>
+        <sql>
+            ALTER TABLE `logs` MODIFY `create_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP;
+        </sql>
+    </changeSet>
+
+    <changeSet id="jogging.2" author="borunov">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="user_profiles"/>
+            </not>
+        </preConditions>
+        <comment>Create table 'user_profiles'</comment>
+        <createTable tableName="user_profiles">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="created" type="timestamp">
+                <constraints nullable="false"/>
+            </column>
+            <column name="login" type="VARCHAR(64)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="pass_hash" defaultValue="" type="VARCHAR(32)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="rights" type="TINYINT" defaultValueNumeric="0">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+        <sql>
+            ALTER TABLE `user_profiles` MODIFY `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP;
+        </sql>
+
+        <addUniqueConstraint tableName="user_profiles"
+                             constraintName="uc_user_profiles_login"
+                             columnNames="login"/>
+    </changeSet>
+
+
+    <changeSet id="jogging.3" author="borunov">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="sessions"/>
+            </not>
+        </preConditions>
+        <comment>Create table sessions</comment>
+        <createTable tableName="sessions">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="user_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column name="code" type="VARCHAR(32)" defaultValue="">
+                <constraints nullable="false"/>
+            </column>
+            <column name="created" type="timestamp">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <sql>
+            ALTER TABLE `sessions` MODIFY `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP;
+        </sql>
+
+        <addUniqueConstraint tableName="sessions"
+                             constraintName="uc_sessions_user_id"
+                             columnNames="user_id"/>
+
+        <addUniqueConstraint tableName="sessions"
+                             constraintName="uc_sessions_code"
+                             columnNames="code"/>
+
+        <createIndex tableName="sessions" indexName="idx_sessions_created">
+            <column name="created"/>
+        </createIndex>
+    </changeSet>
+
+    <changeSet id="jogging.4" author="borunov">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="timings"/>
+            </not>
+        </preConditions>
+        <comment>Create table 'timings'</comment>
+        <createTable tableName="timings">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="user_id" type="bigint">
+                <constraints nullable="false"/>
+            </column>
+            <column name="date" type="date">
+                <constraints nullable="false"/>
+            </column>
+            <column name="location" type="VARCHAR(32)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="distance_meters" type="int">
+                <constraints nullable="false"/>
+            </column>
+            <column name="time_minutes" type="int">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <addUniqueConstraint tableName="timings"
+                             constraintName="uc_user_timings_user_date"
+                             columnNames="user_id, date"/>
+    </changeSet>
+
+    <changeSet id="jogging.5" author="borunov">
+        <preConditions onFail="MARK_RAN">
+            <not>
+                <tableExists tableName="forecasts"/>
+            </not>
+        </preConditions>
+        <comment>Create table 'forecasts'</comment>
+        <createTable tableName="forecasts">
+            <column name="id" type="bigint" autoIncrement="true">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="date" type="date">
+                <constraints nullable="false"/>
+            </column>
+            <column name="location" type="VARCHAR(32)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="state" type="tinyint">
+                <constraints nullable="false"/>
+            </column>
+            <column name="temperature" type="int" defaultValueNumeric="0">
+                <constraints nullable="false"/>
+            </column>
+            <column name="humidity" type="int" defaultValueNumeric="0">
+                <constraints nullable="false"/>
+            </column>
+            <column name="precipitation" type="VARCHAR(64)" defaultValue="">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+
+        <addUniqueConstraint tableName="forecasts"
+                             constraintName="uc_forecasts_date_location"
+                             columnNames="date, location"/>
+    </changeSet>
+
+</databaseChangeLog>

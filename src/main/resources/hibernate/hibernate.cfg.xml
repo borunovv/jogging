@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <!-- SQL dialect -->
+        <property name="dialect">${hibernate.dialect}</property>
+
+        <property name="hibernate.cache.region.factory_class">org.hibernate.cache.ehcache.EhCacheRegionFactory</property>
+        <property name="hibernate.cache.use_second_level_cache">true</property>
+        <property name="hibernate.cache.use_query_cache">true</property>
+        <!--<property name="net.sf.ehcache.configurationResourceName">ehcache.xml</property>-->
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">${hibernate.show_sql}</property>
+        <property name="format_sql">true</property>
+
+    </session-factory>
+
+</hibernate-configuration>
